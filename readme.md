@@ -1,0 +1,1 @@
+Trivia Game in Python: A console-based trivia game written in Python. Ideal for beginners looking to enhance their coding skills while having fun!
