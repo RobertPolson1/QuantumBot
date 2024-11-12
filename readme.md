@@ -12,6 +12,8 @@ QuantumBot is the best AIO-bot which includes Solana Bump, Solana Volume, Solana
 **QuantumBot** -  designed to automate trading on the Solana blockchain using the Raydium/MOONSHOT/PUMP.FUN
 Built by traders for traders.
 
+We've closely observed the shift in trading activity from Ethereum to Solana. After months of quiet development, we're proud to introduce QuantumBot — a powerful tool designed to elevate your trading strategy on Solana.
+
 ![](files/line.gif)
 
 # V1.1.3 Features
