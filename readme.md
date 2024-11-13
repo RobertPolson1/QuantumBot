@@ -16,7 +16,7 @@ We've closely observed the shift in trading activity from Ethereum to Solana. Af
 
 ![](files/line.gif)
 
-# V1.1.3 Features
+# V1.3 Features
 ![](files/logo.png)
 1. `💎 Volume Bot` *creates natural trading activity for your token by allowing you to set SOL purchase ranges and delays between buys.*
 2. `🎯 Snipe Bot` *utilizes sub wallets for mass purchasing of existing tokens before Community Take Over (CTO) and monitors new tokens minted by specific wallets for quick acquisition.*
@@ -34,7 +34,7 @@ WSOL Exchange: Provided an easy way to wrap or unwrap SOL (WSOL), facilitating i
 
 ## ✅ We provide 24-hour trial of our bot for free!✅
 
-[![Custom Button](https://img.shields.io/badge/Click%20Here-Try%20Free%20-blue?style=for-the-badge)](https://github.com/RobertPolson1/QuantumBot/releases/tag/1.1.3)
+[![Custom Button](https://img.shields.io/badge/Click%20Here-Try%20Free%20-blue?style=for-the-badge)](https://github.com/RobertPolson1/QuantumBot/releases/tag/1.3)
 [![Custom Button](https://img.shields.io/badge/PRICE-blue?style=for-the-badge)](https://t.me/)
 
 ### TRIAL VERSION:
