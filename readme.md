@@ -1,4 +1,4 @@
-<h1  align="center"> Solana Bot by QuantumLabs⚛️ </h1>
+<h1  align="center"> Solana Bot by QuantumLabs.⚛️ </h1>
 
 QuantumBot is the best AIO-bot which includes Solana Bump, Solana Volume, Solana copy-trading, MEV-bot, Solana Sniper
 
